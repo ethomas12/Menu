@@ -7,4 +7,3 @@ Using Android Studio
 
 Using a Nexus 5x for deployment
 
-Kurt V FTW
